@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.2.7.11" name="Neutrino StopWatch.exe" publicKeyToken="04779069e730b76e" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="stopwatch_icon.ico" asmv2:publisher="Neutrino" asmv2:product="Neutrino StopWatch" asmv2:supportUrl="http://www.contactme.com/4ec2c19190390f0001024092?locale=en&amp;u=http%3A%2F%2Fwww.shakir-world.0fees.net%2Findex.php%3Fp%3D1_1&amp;f=4ec2c19190390f0001024092&amp;ha=right&amp;va=middle&amp;tx=Contact%20Me&amp;c=003C68&amp;vid=13698857573381e" co.v1:errorReportUrl="http://www.contactme.com/4ec2c19190390f0001024092?locale=en&amp;u=http%3A%2F%2Fwww.shakir-world.0fees.net%2Findex.php%3Fp%3D1_1&amp;f=4ec2c19190390f0001024092&amp;ha=right&amp;va=middle&amp;tx=Contact%20Me&amp;c=003C68&amp;vid=13698857573381e" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Neutrino StopWatch" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Neutrino StopWatch.exe" parameters="" />
+  </entryPoint>
+  <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Neutrino StopWatch.exe" size="118272">
+      <assemblyIdentity name="Neutrino StopWatch" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>7HnjitzD7mtnH8ZYn/lJgyGty7c=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Neutrino StopWatch.exe.config" size="2675">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UKLbyl5YPrGL8Oe/HpGyHoj1i0g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="stopwatch_icon.ico" size="32038">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pJZ2tCEkSUN1Fj2gUpPemDzVM3I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Platinum\Shakir" issuerKeyHash="6c9a757fad212ade81316463b1d41131a3e0e416" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>s2jexM9Y94SuNHYi6FnQ7VOAdHA=</DigestValue></Reference></SignedInfo><SignatureValue>qmbLu9yl9dViucWoz09y6is9KWbqUm+J4Kf94kpnsQkalvYiMyIvgzYMZvlsO+aYn/rrAxNSF9lDwgswhhkEvcgsXVXqj80DLZjT1BjRRZFNQgve9+U/dfIpB8ntBe54wNB6znj31ElGfhPZBTfMEjl0stij6BlN0sEtCIMn0zM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>veE6wjlOfDA7ULXzXuE/rX+rymDKte6CIGwqqVhfjRg+soloYJ3dO6mWURkeoETRhmZBX+zeiewEIgobzFPQouyVEl2x3SbblvkM3cvqPVnetNLzCy+yX85n09S5762qm1CoMmMbvj0fJvFoNI5RJh7RsqnNz1+3daeALi20PKU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="70748053edd059e8227634ae84f758cfc4de68b3" Description="" Url=""><as:assemblyIdentity version="1.2.7.11" name="Neutrino StopWatch.exe" publicKeyToken="04779069e730b76e" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Platinum\Shakir</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>UfaLDN/46wHiaprquevrRB1N9/0=</DigestValue></Reference></SignedInfo><SignatureValue>l5tl0sgGYxyak4O+X9ClQZgb+Ha3/RdIhPfmSGnsxnNnXr4sezmrGhZ3rh3N6huqZ0LVxRvf5rDF+edlWJzr5h3x4S6vsvv3qfH9Xl5Ji3cpy7g+0L2J0kzaIluduLlI4NFuC1d+rgnJc3fPLtyPp2Ec/97Ym6lH/gnk4XBdD1I=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>veE6wjlOfDA7ULXzXuE/rX+rymDKte6CIGwqqVhfjRg+soloYJ3dO6mWURkeoETRhmZBX+zeiewEIgobzFPQouyVEl2x3SbblvkM3cvqPVnetNLzCy+yX85n09S5762qm1CoMmMbvj0fJvFoNI5RJh7RsqnNz1+3daeALi20PKU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQP9tLXDxYbaRABu5gkvtr6TANBgkqhkiG9w0BAQUFADApMScwJQYDVQQDHh4AUABsAGEAdABpAG4AdQBtAFwAUwBoAGEAawBpAHIwHhcNMTIwNDA5MTkxMzAzWhcNMTMwNDEwMDExMzAzWjApMScwJQYDVQQDHh4AUABsAGEAdABpAG4AdQBtAFwAUwBoAGEAawBpAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL3hOsI5TnwwO1C1817hP61/q8pgyrXugiBsKqlYX40YPrKJaGCd3TupllEZHqBE0YZmQV/s3onsBCIKG8xT0KLslRJdsd0m25b5DN3L6j1Z3rTS8wsvsl/OZ9PUue+tqptQqDJjG749HybxaDSOUSYe0bKpzc9ft3WngC4ttDylAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAqt+8blTvSBKN9lbte+vCYDBOdUaU23hHmE9ihPNS+ZLZr9TcuimL3DpT7Oga4qIp5kW9PA20ZZnAPcIPtPA0J/dZl9f/q4xW1rrUobnCoaeYwDJzCfEbhmCWNquApc32N9KwByo7CYjnyd+Z4Ru1/n5ApcwphSQkkzseT7sypOc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

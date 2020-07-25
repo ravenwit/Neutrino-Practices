@@ -1,0 +1,11 @@
+C:\Users\Anton\AppData\Local\Temporary Projects\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Anton\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Anton\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Anton\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Anton\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\Anton\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Anton\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.xml
+C:\Users\Anton\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.exe
+C:\Users\Anton\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.xml
+C:\Users\Anton\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.pdb

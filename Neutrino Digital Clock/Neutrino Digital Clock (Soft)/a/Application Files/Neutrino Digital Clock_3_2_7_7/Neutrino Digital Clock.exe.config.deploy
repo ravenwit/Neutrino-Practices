@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Neutrino_Digital_Clock.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <system.diagnostics>
+        <sources>
+            <!-- This section defines the logging configuration for My.Application.Log -->
+            <source name="DefaultSource" switchName="DefaultSwitch">
+                <listeners>
+                    <add name="FileLog"/>
+                    <!-- Uncomment the below section to write to the Application Event Log -->
+                    <!--<add name="EventLog"/>-->
+                </listeners>
+            </source>
+        </sources>
+        <switches>
+            <add name="DefaultSwitch" value="Information" />
+        </switches>
+        <sharedListeners>
+            <add name="FileLog"
+                 type="Microsoft.VisualBasic.Logging.FileLogTraceListener, Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                 initializeData="FileLogWriter"/>
+            <!-- Uncomment the below section and replace APPLICATION_NAME with the name of your application to write to the Application Event Log -->
+            <!--<add name="EventLog" type="System.Diagnostics.EventLogTraceListener" initializeData="APPLICATION_NAME"/> -->
+        </sharedListeners>
+    </system.diagnostics>
+    <userSettings>
+        <Neutrino_Digital_Clock.My.MySettings>
+            <setting name="ForeColor" serializeAs="String">
+                <value>Transparent</value>
+            </setting>
+            <setting name="LocationX" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="LocationY" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Harry_PotterF" serializeAs="String">
+                <value>Harry P, 17.9999981pt</value>
+            </setting>
+            <setting name="Harry_PotterC" serializeAs="String">
+                <value>Info</value>
+            </setting>
+            <setting name="MatrixF" serializeAs="String">
+                <value>MATRIX, 14.25pt</value>
+            </setting>
+            <setting name="MatrixC" serializeAs="String">
+                <value>0, 192, 0</value>
+            </setting>
+            <setting name="BackColor" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Transparent" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="Tick" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="Background" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="BackgroundBool" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="BackColorBool" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="AlertDay" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="AlertHour" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ShowTop" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </Neutrino_Digital_Clock.My.MySettings>
+    </userSettings>
+</configuration>

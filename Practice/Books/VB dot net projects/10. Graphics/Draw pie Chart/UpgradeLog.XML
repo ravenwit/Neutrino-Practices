@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Draw pie Chart">
+</Property><Property Name="Solution File" Value="F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\Draw pie Chart.sln">
+</Property><Property Name="User Options File" Value="F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\Draw pie Chart.suo">
+</Property><Property Name="Date" Value="Tuesday, December 27, 2011">
+</Property><Property Name="Time" Value="23:48 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Draw pie Chart.sln" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\Backup\Draw pie Chart.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Draw pie Chart.suo" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\Backup\Draw pie Chart.suo">
+</Event><Event ErrorLevel="0" Project="Draw pie Chart" Source="Draw pie Chart.vbproj" Description="Project file successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\Backup\Draw pie Chart.vbproj">
+</Event><Event ErrorLevel="0" Project="Draw pie Chart" Source="Draw pie Chart.vbproj.user" Description="Project user file successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\Backup\Draw pie Chart.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Draw pie Chart" Source="AssemblyInfo.vb" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Draw pie Chart" Source="Form1.vb" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Draw pie Chart" Source="Form1.resx" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\Backup\Form1.resx">
+</Event><Event ErrorLevel="1" Project="Draw pie Chart" Source="Draw pie Chart.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Draw pie Chart" Source="Draw pie Chart.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Draw pie Chart" Source="Draw pie Chart.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Draw pie Chart.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Draw pie Chart.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Draw pie Chart" Source="Draw pie Chart.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

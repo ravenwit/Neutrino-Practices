@@ -1,0 +1,10 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\obj\Debug\Interop.VBIDE.dll
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\obj\Debug\Automate Excel Example.vbproj.ResolveComReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\obj\Debug\Automate Excel Example.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\obj\Debug\Automate Excel Example.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\obj\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\obj\Debug\Automate_Excel_Example.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\obj\Debug\ResGen.read.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\obj\Debug\ResGen.write.1.tlog

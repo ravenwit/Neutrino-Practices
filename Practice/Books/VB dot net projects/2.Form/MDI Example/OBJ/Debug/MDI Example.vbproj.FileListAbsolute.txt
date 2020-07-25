@@ -1,0 +1,12 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\obj\Debug\MDI Example.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\obj\Debug\MDI Example.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\bin\MDI Example.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\bin\MDI Example.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\bin\MDI Example.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\obj\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\obj\Debug\MDI_Example.MDIParent.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\obj\Debug\MDI_Example.frmChild1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\obj\Debug\MDI_Example.frmChild2.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\obj\Debug\ResGen.read.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\obj\Debug\ResGen.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\MDI Example\obj\Debug\MDI Example.xml

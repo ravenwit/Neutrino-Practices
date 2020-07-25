@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="3.2.7.7" name="Neutrino Digital Clock.exe" publicKeyToken="f12fca5909723b5c" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="favicon.ico" asmv2:publisher="Neutrino" asmv2:product="Neutrino Digital Clock" asmv2:supportUrl="http://www.shakir-world.0fees.net/" co.v1:errorReportUrl="http://www.shakir-world.0fees.net/index.php?p=1_3" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Neutrino Digital Clock" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Neutrino Digital Clock.exe" parameters="" />
+  </entryPoint>
+  <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Neutrino Digital Clock.exe" size="387072">
+      <assemblyIdentity name="Neutrino Digital Clock" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>CqfryBrg8fEP876/I5R9V6G2zyc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="beep.wav" size="9702">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CkG536aXcLm3sIstrni24Rq1Sro=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="favicon.ico" size="82726">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/Ks6cAC5i3WCGIr8bq4NzQ86pyQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Neutrino Digital Clock.exe.config" size="3932">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RkFWfUMk/BVg+48T2C0002nkEkc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Platinum\Shakir" issuerKeyHash="ed47dea60db6b6adfb439d586bd50f37e69eec6b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>iLoZEGceLTmswIUxP5QteDo8SCM=</DigestValue></Reference></SignedInfo><SignatureValue>i3N1JUK+VCQRnoxmPQlSGpOQArSTEbaehErIHM1qNv47S9ZOZIuG2cJy2mIoj9SyUOd2q58TMwzhqACsp6pKZLs5riiwm1q/ehyNvXgH55Nfe4A1NG+fY25PdeKtEuNYI+g9e0+zQwB1WzTYoTcckphdcuJfeCgppJqojsk8lHw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rwr2iQnrFFv1vNwgE/S2Bhc31p0W0W8HmYWmKvEkSs3TkMOITpmnUshUQXAL3gsoxEnKPLfzxGlf52agxvBwXSCoRabIdXW3Zmj0FuvtwAEGe1/XCJHmDnsE0hc5Fg4hROMKDmtmXuxhMuScZfDUyDaE5kLYmNh4ezpcDeIdqIU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="23483c3a782d943f3185c0ac392d1e671019ba88" Description="" Url=""><as:assemblyIdentity version="3.2.7.7" name="Neutrino Digital Clock.exe" publicKeyToken="f12fca5909723b5c" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Platinum\Shakir</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>WLDySDhqHvo72rklLH0JVl0MRf0=</DigestValue></Reference></SignedInfo><SignatureValue>FpoVpRLKcJYDVaK0S3ZwffS6oKlkHjVSEP/f4FZcIBDpcCumy11nMJXRwHFJpRS8/l0Kv+Qxmd6TYlMVPHcJYp663u2lx3hrLb8k2yRi8E++aUZGW7zfj746tYVusGgCsn3pHtz3eREJnJoNebZJ1CzWRP48G1Y3O5qbDXL6zOM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rwr2iQnrFFv1vNwgE/S2Bhc31p0W0W8HmYWmKvEkSs3TkMOITpmnUshUQXAL3gsoxEnKPLfzxGlf52agxvBwXSCoRabIdXW3Zmj0FuvtwAEGe1/XCJHmDnsE0hc5Fg4hROMKDmtmXuxhMuScZfDUyDaE5kLYmNh4ezpcDeIdqIU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQFgHGvz0u8oBGx8q2m5o9JTANBgkqhkiG9w0BAQUFADApMScwJQYDVQQDHh4AUABsAGEAdABpAG4AdQBtAFwAUwBoAGEAawBpAHIwHhcNMTIwMTI4MDkxMTI5WhcNMTMwMTI3MTUxMTI5WjApMScwJQYDVQQDHh4AUABsAGEAdABpAG4AdQBtAFwAUwBoAGEAawBpAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK8K9okJ6xRb9bzcIBP0tgYXN9adFtFvB5mFpirxJErN05DDiE6Zp1LIVEFwC94LKMRJyjy388RpX+dmoMbwcF0gqEWmyHV1t2Zo9Bbr7cABBntf1wiR5g57BNIXORYOIUTjCg5rZl7sYTLknGXw1Mg2hOZC2JjYeHs6XA3iHaiFAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAYyJtPo5LqLCc9TUoGZpR5M0pXrWSNoPe+GddpDXwPA4LImY9tMad4+huR9LJA0BsHdBXUNreD5jRgTAjVT8pgEA+tXdWXO9spIYkjKDoPjoIm7E5Ydon/xWI0GcgVwMQzRY0Fw9GT73xjAL7MtiSsvh4RMTvT0P0zbrVENzIeXU=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

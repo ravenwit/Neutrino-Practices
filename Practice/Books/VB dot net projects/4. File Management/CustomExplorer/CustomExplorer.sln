@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomExplorer", "CustomExplorer.vbproj", "{DE094FD9-7C3C-48CC-B329-966517AB081E}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DE094FD9-7C3C-48CC-B329-966517AB081E}.Debug.ActiveCfg = Debug|.NET
+		{DE094FD9-7C3C-48CC-B329-966517AB081E}.Debug.Build.0 = Debug|.NET
+		{DE094FD9-7C3C-48CC-B329-966517AB081E}.Release.ActiveCfg = Release|.NET
+		{DE094FD9-7C3C-48CC-B329-966517AB081E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Ashley\Desktop\imageSlideshowEx05\imageSlideshowEx05\bin\Debug\imageSlideshowEx05.exe
+C:\Users\Ashley\Desktop\imageSlideshowEx05\imageSlideshowEx05\bin\Debug\imageSlideshowEx05.pdb
+C:\Users\Ashley\Desktop\imageSlideshowEx05\imageSlideshowEx05\bin\Debug\imageSlideshowEx05.xml
+C:\Users\Ashley\Desktop\imageSlideshowEx05\imageSlideshowEx05\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashley\Desktop\imageSlideshowEx05\imageSlideshowEx05\obj\Debug\imageSlideshowEx05.frmMain.resources
+C:\Users\Ashley\Desktop\imageSlideshowEx05\imageSlideshowEx05\obj\Debug\imageSlideshowEx05.Resources.resources
+C:\Users\Ashley\Desktop\imageSlideshowEx05\imageSlideshowEx05\obj\Debug\imageSlideshowEx05.vbproj.GenerateResource.Cache
+C:\Users\Ashley\Desktop\imageSlideshowEx05\imageSlideshowEx05\obj\Debug\imageSlideshowEx05.exe
+C:\Users\Ashley\Desktop\imageSlideshowEx05\imageSlideshowEx05\obj\Debug\imageSlideshowEx05.xml
+C:\Users\Ashley\Desktop\imageSlideshowEx05\imageSlideshowEx05\obj\Debug\imageSlideshowEx05.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Image Slideshow\imageSlideshowEx05\imageSlideshowEx05\obj\Debug\imageSlideshowEx05.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Image Slideshow\imageSlideshowEx05\imageSlideshowEx05\obj\Debug\imageSlideshowEx05.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Image Slideshow\imageSlideshowEx05\imageSlideshowEx05\obj\Debug\imageSlideshowEx05.pdb

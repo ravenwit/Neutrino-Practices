@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Automate Excel Example">
+</Property><Property Name="Solution File" Value="F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\Automate Excel Example.sln">
+</Property><Property Name="User Options File" Value="F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\Automate Excel Example.suo">
+</Property><Property Name="Date" Value="Tuesday, December 27, 2011">
+</Property><Property Name="Time" Value="23:34 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Automate Excel Example.sln" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\Backup\Automate Excel Example.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Automate Excel Example.suo" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\Backup\Automate Excel Example.suo">
+</Event><Event ErrorLevel="0" Project="Automate Excel Example" Source="Automate Excel Example.vbproj" Description="Project file successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\Backup\Automate Excel Example.vbproj">
+</Event><Event ErrorLevel="0" Project="Automate Excel Example" Source="Automate Excel Example.vbproj.user" Description="Project user file successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\Backup\Automate Excel Example.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Automate Excel Example" Source="AssemblyInfo.vb" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Automate Excel Example" Source="Form1.vb" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Automate Excel Example" Source="Form1.resx" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\11. ActiveX Control\Automate Excel Example\Backup\Form1.resx">
+</Event><Event ErrorLevel="1" Project="Automate Excel Example" Source="Automate Excel Example.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Automate Excel Example" Source="Automate Excel Example.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Automate Excel Example" Source="Automate Excel Example.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Automate Excel Example.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Automate Excel Example.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Automate Excel Example" Source="Automate Excel Example.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

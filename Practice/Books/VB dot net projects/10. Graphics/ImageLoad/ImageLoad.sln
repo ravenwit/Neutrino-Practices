@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ImageLoad", "ImageLoad.vbproj", "{C52431E7-FF11-4A32-B234-19E018F6F713}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C52431E7-FF11-4A32-B234-19E018F6F713}.Debug.ActiveCfg = Debug|.NET
+		{C52431E7-FF11-4A32-B234-19E018F6F713}.Debug.Build.0 = Debug|.NET
+		{C52431E7-FF11-4A32-B234-19E018F6F713}.Release.ActiveCfg = Release|.NET
+		{C52431E7-FF11-4A32-B234-19E018F6F713}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Automate Excel Example", "Automate Excel Example.vbproj", "{1E4FDC88-5A94-4229-A43F-A9D8F18AB7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1E4FDC88-5A94-4229-A43F-A9D8F18AB7EB}.Debug.ActiveCfg = Debug|.NET
+		{1E4FDC88-5A94-4229-A43F-A9D8F18AB7EB}.Debug.Build.0 = Debug|.NET
+		{1E4FDC88-5A94-4229-A43F-A9D8F18AB7EB}.Release.ActiveCfg = Release|.NET
+		{1E4FDC88-5A94-4229-A43F-A9D8F18AB7EB}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Multiple Window Arranger", "Multiple Window Arranger.vbproj", "{21EF1C18-66AA-49CA-8D3A-B39FE5D52006}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{21EF1C18-66AA-49CA-8D3A-B39FE5D52006}.Debug.ActiveCfg = Debug|.NET
+		{21EF1C18-66AA-49CA-8D3A-B39FE5D52006}.Debug.Build.0 = Debug|.NET
+		{21EF1C18-66AA-49CA-8D3A-B39FE5D52006}.Release.ActiveCfg = Release|.NET
+		{21EF1C18-66AA-49CA-8D3A-B39FE5D52006}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

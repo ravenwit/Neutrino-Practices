@@ -1,0 +1,10 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\obj\Debug\Sample Printout.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\obj\Debug\Sample Printout.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\bin\Sample Printout.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\bin\Sample Printout.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\bin\Sample Printout.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\obj\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\obj\Debug\Sample_Printout.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\obj\Debug\ResGen.read.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\obj\Debug\ResGen.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\obj\Debug\Sample Printout.xml

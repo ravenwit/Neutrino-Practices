@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sample Printout">
+</Property><Property Name="Solution File" Value="F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\Sample Printout.sln">
+</Property><Property Name="User Options File" Value="F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\Sample Printout.suo">
+</Property><Property Name="Date" Value="Tuesday, December 27, 2011">
+</Property><Property Name="Time" Value="23:43 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sample Printout.sln" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\Backup\Sample Printout.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Sample Printout.suo" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\Backup\Sample Printout.suo">
+</Event><Event ErrorLevel="0" Project="Sample Printout" Source="Sample Printout.vbproj" Description="Project file successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\Backup\Sample Printout.vbproj">
+</Event><Event ErrorLevel="0" Project="Sample Printout" Source="Sample Printout.vbproj.user" Description="Project user file successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\Backup\Sample Printout.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Sample Printout" Source="AssemblyInfo.vb" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Sample Printout" Source="Form1.vb" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Sample Printout" Source="Form1.resx" Description="File successfully backed up as F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\12. Others\Sample Printout\Backup\Form1.resx">
+</Event><Event ErrorLevel="1" Project="Sample Printout" Source="Sample Printout.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Sample Printout" Source="Sample Printout.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sample Printout" Source="Sample Printout.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Sample Printout.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sample Printout.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sample Printout" Source="Sample Printout.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,16 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\bin\Debug\Neutrino StopWatch.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\bin\Debug\Neutrino StopWatch.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\bin\Debug\Neutrino StopWatch.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\obj\x86\Debug\Neutrino_StopWatch.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\obj\x86\Debug\Neutrino_StopWatch.Neutrino_StopWatch.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\obj\x86\Debug\Neutrino StopWatch.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\obj\x86\Debug\Neutrino StopWatch.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\obj\x86\Debug\Neutrino StopWatch.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\obj\x86\Debug\Neutrino_StopWatch.Settings.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\bin\Debug\Neutrino StopWatch.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\bin\Debug\Neutrino StopWatch.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\bin\Debug\Neutrino StopWatch.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\obj\x86\Debug\Neutrino StopWatch.TrustInfo.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\obj\x86\Debug\Neutrino StopWatch.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\obj\x86\Debug\Neutrino StopWatch.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino StopWatch\Neutrino StopWatch\Neutrino StopWatch\obj\x86\Debug\Neutrino StopWatch.vbproj.GenerateResource.Cache

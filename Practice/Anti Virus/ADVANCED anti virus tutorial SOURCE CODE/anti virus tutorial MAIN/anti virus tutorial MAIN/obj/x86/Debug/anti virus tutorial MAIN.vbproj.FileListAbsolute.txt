@@ -1,0 +1,57 @@
+C:\Users\james\AppData\Local\Temporary Projects\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.exe
+C:\Users\james\AppData\Local\Temporary Projects\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.pdb
+C:\Users\james\AppData\Local\Temporary Projects\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.xml
+C:\Users\james\AppData\Local\Temporary Projects\anti virus tutorial MAIN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\james\AppData\Local\Temporary Projects\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Form1.resources
+C:\Users\james\AppData\Local\Temporary Projects\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Resources.resources
+C:\Users\james\AppData\Local\Temporary Projects\anti virus tutorial MAIN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\james\AppData\Local\Temporary Projects\anti virus tutorial MAIN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\james\AppData\Local\Temporary Projects\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.exe
+C:\Users\james\AppData\Local\Temporary Projects\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.xml
+C:\Users\james\AppData\Local\Temporary Projects\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.pdb
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.exe
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.xml
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.pdb
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.exe
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.pdb
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.xml
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Form1.resources
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Form2.resources
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Resources.resources
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\james\documents\visual studio 2010\Projects\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.exe
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.xml
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.pdb
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.exe
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.pdb
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.xml
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Form1.resources
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Form2.resources
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Resources.resources
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Harry Potter\All Project\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.exe
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.xml
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.pdb
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.exe
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.pdb
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.xml
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Form1.resources
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Form2.resources
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Resources.resources
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shakir\Desktop\Other\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Anti Virus\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Anti Virus\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Anti Virus\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Anti Virus\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Anti Virus\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\bin\Debug\anti virus tutorial MAIN.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Anti Virus\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Anti Virus\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Form2.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Anti Virus\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti_virus_tutorial_MAIN.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Anti Virus\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.vbproj.GenerateResource.Cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Anti Virus\ADVANCED anti virus tutorial SOURCE CODE\anti virus tutorial MAIN\anti virus tutorial MAIN\obj\x86\Debug\anti virus tutorial MAIN.exe

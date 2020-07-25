@@ -1,0 +1,11 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mathemtical Problem\bin\Debug\Mathemtical Problem.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mathemtical Problem\bin\Debug\Mathemtical Problem.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mathemtical Problem\bin\Debug\Mathemtical Problem.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mathemtical Problem\bin\Debug\Mathemtical Problem.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mathemtical Problem\obj\Debug\WindowsApplication1.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mathemtical Problem\obj\Debug\WindowsApplication1.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mathemtical Problem\obj\Debug\Mathemtical Problem.vbproj.GenerateResource.Cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mathemtical Problem\obj\Debug\Mathemtical Problem.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mathemtical Problem\obj\Debug\Mathemtical Problem.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mathemtical Problem\obj\Debug\Mathemtical Problem.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mathemtical Problem\obj\Debug\WindowsApplication1.Form2.resources

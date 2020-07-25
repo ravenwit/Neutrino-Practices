@@ -1,0 +1,9 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Graphics\Graphics\obj\x86\Debug\Graphics.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Graphics\Graphics\obj\x86\Debug\Graphics.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Graphics\Graphics\obj\x86\Debug\Graphics.vbproj.GenerateResource.Cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Graphics\Graphics\bin\Debug\Graphics.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Graphics\Graphics\bin\Debug\Graphics.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Graphics\Graphics\bin\Debug\Graphics.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Graphics\Graphics\obj\x86\Debug\Graphics.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Graphics\Graphics\obj\x86\Debug\Graphics.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Graphics\Graphics\obj\x86\Debug\Graphics.pdb

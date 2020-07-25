@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\My Goolge Translator\My Goolge Translator\bin\Debug\My Goolge Translator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\My Goolge Translator\My Goolge Translator\bin\Debug\My Goolge Translator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\My Goolge Translator\My Goolge Translator\bin\Debug\My Goolge Translator.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\My Goolge Translator\My Goolge Translator\bin\Debug\GoogleTranslateAPI.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\My Goolge Translator\My Goolge Translator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\My Goolge Translator\My Goolge Translator\obj\Debug\My_Goolge_Translator.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\My Goolge Translator\My Goolge Translator\obj\Debug\My_Goolge_Translator.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\My Goolge Translator\My Goolge Translator\obj\Debug\My Goolge Translator.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\My Goolge Translator\My Goolge Translator\obj\Debug\My Goolge Translator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\My Goolge Translator\My Goolge Translator\obj\Debug\My Goolge Translator.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\My Goolge Translator\My Goolge Translator\obj\Debug\My Goolge Translator.pdb
+C:\Documents and Settings\Jimmy!!\Desktop\My Goolge Translator\My Goolge Translator\obj\Debug\My Goolge Translator.exe
+C:\Documents and Settings\Jimmy!!\Desktop\My Goolge Translator\My Goolge Translator\obj\Debug\My Goolge Translator.xml
+C:\Documents and Settings\Jimmy!!\Desktop\My Goolge Translator\My Goolge Translator\obj\Debug\My Goolge Translator.pdb

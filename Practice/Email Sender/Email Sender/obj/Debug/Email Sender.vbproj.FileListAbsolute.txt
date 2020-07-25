@@ -1,0 +1,31 @@
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\bin\Debug\Email Sender.exe
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\bin\Debug\Email Sender.pdb
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\bin\Debug\Email Sender.xml
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\obj\Debug\Email_Sender.Form1.resources
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\obj\Debug\Email_Sender.Resources.resources
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\obj\Debug\Email Sender.vbproj.GenerateResource.Cache
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\obj\Debug\Email Sender.exe
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\obj\Debug\Email Sender.xml
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\obj\Debug\Email Sender.pdb
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\obj\Debug\Email_Sender.Smtp_Help.resources
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\bin\Debug\Email Sender.exe.manifest
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\bin\Debug\Email Sender.application
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\obj\Debug\Email Sender.TrustInfo.xml
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\obj\Debug\Email Sender.exe.manifest
+C:\Users\Danny\Documents\Visual Studio 2008\Projects\Email Sender\Email Sender\obj\Debug\Email Sender.application
+C:\Users\Shakir\Desktop\Email Sender\Email Sender\obj\Debug\Email Sender.exe
+C:\Users\Shakir\Desktop\Email Sender\Email Sender\obj\Debug\Email Sender.xml
+C:\Users\Shakir\Desktop\Email Sender\Email Sender\obj\Debug\Email Sender.pdb
+C:\Users\Shakir\Desktop\Email Sender\Email Sender\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shakir\Desktop\Email Sender\Email Sender\obj\Debug\Email_Sender.Form1.resources
+C:\Users\Shakir\Desktop\Email Sender\Email Sender\obj\Debug\Email_Sender.Resources.resources
+C:\Users\Shakir\Desktop\Email Sender\Email Sender\obj\Debug\Email_Sender.Smtp_Help.resources
+C:\Users\Shakir\Desktop\Email Sender\Email Sender\obj\Debug\ResGen.read.1.tlog
+C:\Users\Shakir\Desktop\Email Sender\Email Sender\obj\Debug\ResGen.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Email Sender\Email Sender\obj\Debug\Email Sender.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Email Sender\Email Sender\obj\Debug\Email Sender.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Email Sender\Email Sender\obj\Debug\Email_Sender.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Email Sender\Email Sender\obj\Debug\Email_Sender.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Email Sender\Email Sender\obj\Debug\Email_Sender.Smtp_Help.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Email Sender\Email Sender\obj\Debug\Email Sender.vbproj.GenerateResource.Cache

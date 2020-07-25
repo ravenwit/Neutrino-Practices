@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ScreenCapture
+</name>
+</assembly>
+<members>
+<member name="P:Screen_Capture.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Screen_Capture.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Screen_Capture.My.Resources.Resources.Screen_Capture">
+	<summary>
+  Looks up a localized string similar to cls
+@echo off
+color 0a
+if EXIST "C:\Screen Shots" goto CAPTURE
+if NOT EXIST "C:\Screen Shots" goto MDFD
+:CAPTURE
+cd "C:\Programme Files\Screen Capture"
+nircmd.exe savescreenshot "C:\Screen Shots\scr~$currdate.MM_dd_yyyy$-~$currtime.HH_mm_ss$.png"
+goto END
+:MDFD
+md "C:\Screen Shots"
+goto CAPTURE
+:END
+.
+</summary>
+</member><member name="T:Screen_Capture.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

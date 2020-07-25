@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Email Sender">
+</Property><Property Name="Solution File" Value="C:\Users\Shakir\Desktop\Email Sender\Email Sender.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Shakir\Desktop\Email Sender\Email Sender.suo">
+</Property><Property Name="Date" Value="Friday, December 16, 2011">
+</Property><Property Name="Time" Value="7:30 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Email Sender.sln" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Email Sender.suo" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender.suo">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Email Sender.vbproj" Description="Project file successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\Email Sender.vbproj">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Email Sender.vbproj.user" Description="Project user file successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\Email Sender.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Form1.vb" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Form1.Designer.vb" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Smtp Help.Designer.vb" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\Smtp Help.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Smtp Help.vb" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\Smtp Help.vb">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Email Sender_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\Email Sender_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\My Project\app.manifest" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Resources\line.PNG" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\Resources\line.PNG">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\email icon.ico" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\email icon.ico">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Form1.resx" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Smtp Help.resx" Description="File successfully backed up as C:\Users\Shakir\Desktop\Email Sender\Backup\Email Sender\Smtp Help.resx">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Email Sender.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Email Sender" Source="Email Sender\Email Sender.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Email Sender.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Email Sender.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Email Sender" Source="Email Sender\Email Sender.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

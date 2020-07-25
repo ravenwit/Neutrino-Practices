@@ -1,0 +1,19 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Screen Capture.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Screen Capture.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen_Capture.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen_Capture.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen Capture.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen Capture.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen Capture.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Screen Capture.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen Capture.TrustInfo.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen Capture.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen Capture.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture(Practice)\Screen Capture\obj\x86\Debug\Screen Capture.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture(Practice)\Screen Capture\obj\x86\Debug\Screen Capture.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture(Practice)\Screen Capture\obj\x86\Debug\Screen Capture.pdb

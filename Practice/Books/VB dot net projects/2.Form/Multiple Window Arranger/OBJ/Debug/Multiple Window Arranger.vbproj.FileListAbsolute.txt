@@ -1,0 +1,11 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Multiple Window Arranger\obj\Debug\Multiple Window Arranger.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Multiple Window Arranger\obj\Debug\Multiple Window Arranger.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Multiple Window Arranger\bin\Multiple Window Arranger.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Multiple Window Arranger\bin\Multiple Window Arranger.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Multiple Window Arranger\bin\Multiple Window Arranger.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Multiple Window Arranger\obj\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Multiple Window Arranger\obj\Debug\Multiple_Window_Arranger.MdiParent.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Multiple Window Arranger\obj\Debug\Multiple_Window_Arranger.frmView.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Multiple Window Arranger\obj\Debug\ResGen.read.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Multiple Window Arranger\obj\Debug\ResGen.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Multiple Window Arranger\obj\Debug\Multiple Window Arranger.xml

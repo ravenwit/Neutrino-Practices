@@ -1,0 +1,20 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\bin\Debug\Neutrino Digital Clock.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\bin\Debug\Neutrino Digital Clock.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\bin\Debug\Neutrino Digital Clock.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino_Digital_Clock.NeutrinoDigitalClock.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino_Digital_Clock.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino Digital Clock.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino Digital Clock.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino Digital Clock.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino_Digital_Clock.Options.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\bin\Debug\Neutrino Digital Clock.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\bin\Debug\Neutrino Digital Clock.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\bin\Debug\Neutrino Digital Clock.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino Digital Clock.TrustInfo.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino Digital Clock.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino Digital Clock.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino_Digital_Clock.Calendar.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino_Digital_Clock.Alarm.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino_Digital_Clock.AlarmAlert.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino Digital Clock.vbprojResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Digital Clock\Neutrino Digital Clock\obj\x86\Debug\Neutrino Digital Clock.vbproj.GenerateResource.Cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Calculator", "Calculator\Calculator.vbproj", "{72101B8D-A34B-4D83-BE03-2998F6B6DFF2}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication1", "WindowsApplication1\WindowsApplication1.vbproj", "{76AEF61A-D4BE-4E46-A9C8-BF8C99ECF68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72101B8D-A34B-4D83-BE03-2998F6B6DFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72101B8D-A34B-4D83-BE03-2998F6B6DFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72101B8D-A34B-4D83-BE03-2998F6B6DFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72101B8D-A34B-4D83-BE03-2998F6B6DFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76AEF61A-D4BE-4E46-A9C8-BF8C99ECF68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AEF61A-D4BE-4E46-A9C8-BF8C99ECF68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AEF61A-D4BE-4E46-A9C8-BF8C99ECF68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AEF61A-D4BE-4E46-A9C8-BF8C99ECF68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

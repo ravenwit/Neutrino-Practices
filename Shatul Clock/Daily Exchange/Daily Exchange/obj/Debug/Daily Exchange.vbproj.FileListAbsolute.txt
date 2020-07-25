@@ -1,0 +1,12 @@
+C:\Users\Shakir\AppData\Local\Temporary Projects\Daily Exchange\bin\Debug\Daily Exchange.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Daily Exchange\Daily Exchange\bin\Debug\Daily Exchange.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Daily Exchange\Daily Exchange\bin\Debug\Daily Exchange.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Daily Exchange\Daily Exchange\bin\Debug\Daily Exchange.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Daily Exchange\Daily Exchange\bin\Debug\Daily Exchange.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Daily Exchange\Daily Exchange\obj\Debug\Daily_Exchange.frmStart.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Daily Exchange\Daily Exchange\obj\Debug\Daily_Exchange.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Daily Exchange\Daily Exchange\obj\Debug\Daily Exchange.vbproj.GenerateResource.Cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Daily Exchange\Daily Exchange\obj\Debug\Daily Exchange.exe.licenses
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Daily Exchange\Daily Exchange\obj\Debug\Daily Exchange.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Daily Exchange\Daily Exchange\obj\Debug\Daily Exchange.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Daily Exchange\Daily Exchange\obj\Debug\Daily Exchange.pdb

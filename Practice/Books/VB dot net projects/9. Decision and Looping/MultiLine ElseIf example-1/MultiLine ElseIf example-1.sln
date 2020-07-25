@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MultiLine ElseIf example-1", "MultiLine ElseIf example-1.vbproj", "{418B4222-3E0C-496D-96B2-326015230F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{418B4222-3E0C-496D-96B2-326015230F1F}.Debug.ActiveCfg = Debug|.NET
+		{418B4222-3E0C-496D-96B2-326015230F1F}.Debug.Build.0 = Debug|.NET
+		{418B4222-3E0C-496D-96B2-326015230F1F}.Release.ActiveCfg = Release|.NET
+		{418B4222-3E0C-496D-96B2-326015230F1F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

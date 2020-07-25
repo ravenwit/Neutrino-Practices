@@ -1,0 +1,10 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Resizer Event Example\obj\Debug\Resizer Event Example.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Resizer Event Example\obj\Debug\Resizer Event Example.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Resizer Event Example\bin\Resizer Event Example.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Resizer Event Example\bin\Resizer Event Example.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Resizer Event Example\bin\Resizer Event Example.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Resizer Event Example\obj\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Resizer Event Example\obj\Debug\Resizer_Event_Example.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Resizer Event Example\obj\Debug\ResGen.read.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Resizer Event Example\obj\Debug\ResGen.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\2.Form\Resizer Event Example\obj\Debug\Resizer Event Example.xml

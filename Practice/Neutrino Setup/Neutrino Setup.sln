@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Neutrino Setup", "Neutrino Setup\Neutrino Setup.vdproj", "{C39915B6-40EB-4354-B158-8964FBA21E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C39915B6-40EB-4354-B158-8964FBA21E8A}.Debug|Default.ActiveCfg = Debug
+		{C39915B6-40EB-4354-B158-8964FBA21E8A}.Debug|Default.Build.0 = Debug
+		{C39915B6-40EB-4354-B158-8964FBA21E8A}.Release|Default.ActiveCfg = Release
+		{C39915B6-40EB-4354-B158-8964FBA21E8A}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

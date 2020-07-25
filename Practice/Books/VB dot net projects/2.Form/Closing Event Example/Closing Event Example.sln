@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Closing Event Example", "Closing Event Example.vbproj", "{00D032F5-6BEA-4755-8864-82B86D0C455B}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{00D032F5-6BEA-4755-8864-82B86D0C455B}.Debug.ActiveCfg = Debug|.NET
+		{00D032F5-6BEA-4755-8864-82B86D0C455B}.Debug.Build.0 = Debug|.NET
+		{00D032F5-6BEA-4755-8864-82B86D0C455B}.Release.ActiveCfg = Release|.NET
+		{00D032F5-6BEA-4755-8864-82B86D0C455B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

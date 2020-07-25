@@ -1,0 +1,18 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\Draw pie Chart.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\Draw pie Chart.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\bin\Draw pie Chart.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\bin\Draw pie Chart.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\bin\Draw pie Chart.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\Draw_pie_Chart.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\ResGen.read.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\ResGen.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\Draw pie Chart.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\Draw pie Chart.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\Draw pie Chart.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Books\VB dot net projects\10. Graphics\Draw pie Chart\bin\Draw pie Chart.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Books\VB dot net projects\10. Graphics\Draw pie Chart\bin\Draw pie Chart.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Books\VB dot net projects\10. Graphics\Draw pie Chart\bin\Draw pie Chart.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\Draw_pie_Chart.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\Draw pie Chart.vbproj.GenerateResource.Cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Books\VB dot net projects\10. Graphics\Draw pie Chart\obj\Debug\Draw pie Chart.exe

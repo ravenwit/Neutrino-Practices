@@ -1,0 +1,8 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Dynamic Link LIbraries\Calculator\Calculator\obj\Debug\ClassLibrary1.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Dynamic Link LIbraries\Calculator\Calculator\bin\Debug\Calculator.dll
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Dynamic Link LIbraries\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Dynamic Link LIbraries\Calculator\Calculator\bin\Debug\Calculator.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Dynamic Link LIbraries\Calculator\Calculator\obj\Debug\Calculator.dll
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Dynamic Link LIbraries\Calculator\Calculator\obj\Debug\Calculator.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Dynamic Link LIbraries\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Dynamic Link LIbraries\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache

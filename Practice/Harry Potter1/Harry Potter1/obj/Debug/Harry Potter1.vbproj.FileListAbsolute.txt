@@ -1,0 +1,10 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Harry Potter1\Harry Potter1\obj\Debug\Harry_Potter.frmHarryPotter.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Harry Potter1\Harry Potter1\obj\Debug\Harry_Potter.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Harry Potter1\Harry Potter1\obj\Debug\Harry Potter1.vbproj.GenerateResource.Cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Harry Potter1\Harry Potter1\bin\Debug\Harry Potter.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Harry Potter1\Harry Potter1\bin\Debug\Harry Potter.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Harry Potter1\Harry Potter1\bin\Debug\Harry Potter.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Harry Potter1\Harry Potter1\bin\Debug\Harry Potter.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Harry Potter1\Harry Potter1\obj\Debug\Harry Potter.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Harry Potter1\Harry Potter1\obj\Debug\Harry Potter.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Harry Potter1\Harry Potter1\obj\Debug\Harry Potter.pdb

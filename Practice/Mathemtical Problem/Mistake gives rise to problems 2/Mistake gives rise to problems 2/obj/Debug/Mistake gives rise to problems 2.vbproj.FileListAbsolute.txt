@@ -1,0 +1,14 @@
+C:\Users\Shakir\AppData\Local\Temporary Projects\Mistake gives rise to problems 2\bin\Debug\Mistake gives rise to problems 2.exe.config
+C:\Users\Shakir\AppData\Local\Temporary Projects\Mistake gives rise to problems 2\bin\Debug\Mistake gives rise to problems 2.exe
+C:\Users\Shakir\AppData\Local\Temporary Projects\Mistake gives rise to problems 2\bin\Debug\Mistake gives rise to problems 2.pdb
+C:\Users\Shakir\AppData\Local\Temporary Projects\Mistake gives rise to problems 2\bin\Debug\Mistake gives rise to problems 2.xml
+C:\Users\Shakir\AppData\Local\Temporary Projects\Mistake gives rise to problems 2\obj\Debug\Mistake_gives_rise_to_problems_2.Form1.resources
+C:\Users\Shakir\AppData\Local\Temporary Projects\Mistake gives rise to problems 2\obj\Debug\Mistake_gives_rise_to_problems_2.Resources.resources
+C:\Users\Shakir\AppData\Local\Temporary Projects\Mistake gives rise to problems 2\obj\Debug\Mistake gives rise to problems 2.vbproj.GenerateResource.Cache
+C:\Users\Shakir\AppData\Local\Temporary Projects\Mistake gives rise to problems 2\obj\Debug\Mistake gives rise to problems 2.exe
+C:\Users\Shakir\AppData\Local\Temporary Projects\Mistake gives rise to problems 2\obj\Debug\Mistake gives rise to problems 2.xml
+C:\Users\Shakir\AppData\Local\Temporary Projects\Mistake gives rise to problems 2\obj\Debug\Mistake gives rise to problems 2.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mistake gives rise to problems 2\Mistake gives rise to problems 2\bin\Debug\Mistake gives rise to problems 2.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mistake gives rise to problems 2\Mistake gives rise to problems 2\obj\Debug\Mistake gives rise to problems 2.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mistake gives rise to problems 2\Mistake gives rise to problems 2\obj\Debug\Mistake gives rise to problems 2.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Mathemtical Problem\Mistake gives rise to problems 2\Mistake gives rise to problems 2\obj\Debug\Mistake gives rise to problems 2.pdb

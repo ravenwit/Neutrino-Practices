@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.1" name="Email Sender.exe" publicKeyToken="0b693e08d6951dd9" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="email icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Email Sender" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Email Sender.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Email Sender.exe" size="177664">
+      <assemblyIdentity name="Email Sender" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>J1lCc59qvy6/8a7UZAFXpN4WTHk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="email icon.ico" size="73506">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>U+3OQdVcv+B1ZdI2dRw52DV6lc8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Danny-PC\Danny" issuerKeyHash="52e051bbc5b7fc7382a375bdd05670db4f9dc2db" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>OhyESyVfThnXavXKqcT0EdE4Fik=</DigestValue></Reference></SignedInfo><SignatureValue>Vgg459LSkN0f930uDK5xPEmquMBgeE483eOkcfbrgIbejiQedJ2kbuANhh73+f1fpfRqhgY1PF6tdZxizlea8GFtv5lAi2++is2SUtXSJiPQVJkbJt8mm4Nn5DS7dvanDtkn13EAkxm9qxkEUPCxoGa6JsoaSxTJz2jp8TSchQs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oWSeFAEIKdukWbxgVdfPxzHeJPmz2als8vF0JXNqjaKpGE0dSCntA7CkSbcl2B76QSHzB7jvFcvMRhHx2sqqGxH6nIN0Xb3NzFOccwfUSsBHj/NMp33fOmG9Ht8Y7HfSZHuk8QzXzSR/n+0Uj8jWmz3EZZo+zhaFLi7COkZau6U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="291638d111f4c4a9caf56ad7194e5f254b841c3a" Description="" Url=""><as:assemblyIdentity version="1.0.0.1" name="Email Sender.exe" publicKeyToken="0b693e08d6951dd9" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Danny-PC\Danny</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>gLIYJ22U1J4NzftNAdeCEUZKHxM=</DigestValue></Reference></SignedInfo><SignatureValue>loCzaZDONLy94JOt2glggQfSb6K1JVN9cviNrqa8d/nlfRsPTau02m7AGxU2SIPF+aQk424dVMYzyfc0mrk73r3Td+l4gt17VwqUyoeYFe9GaxS289RQFHQ+TCSQ8vjs+efIvd0TicF2rSjvoTduwzk8vBhzmsUsjMrmxg/f13g=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oWSeFAEIKdukWbxgVdfPxzHeJPmz2als8vF0JXNqjaKpGE0dSCntA7CkSbcl2B76QSHzB7jvFcvMRhHx2sqqGxH6nIN0Xb3NzFOccwfUSsBHj/NMp33fOmG9Ht8Y7HfSZHuk8QzXzSR/n+0Uj8jWmz3EZZo+zhaFLi7COkZau6U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQX6fCeylj34dFwfnp9Y1HtTANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwARABhAG4AbgB5AC0AUABDAFwARABhAG4AbgB5MB4XDTEwMDMwNjAwMDI0NloXDTExMDMwNjA2MDI0NlowJzElMCMGA1UEAx4cAEQAYQBuAG4AeQAtAFAAQwBcAEQAYQBuAG4AeTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoWSeFAEIKdukWbxgVdfPxzHeJPmz2als8vF0JXNqjaKpGE0dSCntA7CkSbcl2B76QSHzB7jvFcvMRhHx2sqqGxH6nIN0Xb3NzFOccwfUSsBHj/NMp33fOmG9Ht8Y7HfSZHuk8QzXzSR/n+0Uj8jWmz3EZZo+zhaFLi7COkZau6UCAwEAATANBgkqhkiG9w0BAQUFAAOBgQAYFfIk5S5JP8QFgjZyxoS0JNfH/KuzypiCQsU5SoTUleGlLHiOz3u6O4tVgMuh87Di0oRTrCS6GuolpnGCVU3xwo6CYi1q+/YBM/wbn0znzwMJOSUDrvh/pxkRFRz9GUyjYBRCci0tkblpA+Mb9IBtSnLCeFW9QCTtWZbE1mek+w==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

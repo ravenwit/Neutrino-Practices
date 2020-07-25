@@ -1,0 +1,24 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\bin\Debug\Calculator1.xml
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\obj\Debug\Calculator.Form1.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\obj\Debug\Calculator.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\obj\Debug\Calculator1.xml
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\obj\Debug\Calculator.Form2.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Calculator1\Calculator1\obj\Debug\GenerateResource.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Calculator\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Calculator\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Calculator\Calculator1\Calculator1\obj\Debug\Calculator1.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Calculator\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Calculator\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Calculator\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Calculator\Calculator1\Calculator1\bin\Debug\Calculator1.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Calculator\Calculator1\Calculator1\obj\Debug\Calculator.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Calculator\Calculator1\Calculator1\obj\Debug\Calculator.Form2.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Calculator\Calculator1\Calculator1\obj\Debug\Calculator.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Practice\Calculator\Calculator1\Calculator1\obj\Debug\Calculator1.vbproj.GenerateResource.Cache

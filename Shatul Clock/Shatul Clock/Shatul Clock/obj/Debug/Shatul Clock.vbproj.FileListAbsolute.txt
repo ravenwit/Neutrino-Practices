@@ -1,0 +1,19 @@
+C:\Users\Shakir\AppData\Local\Temporary Projects\Shatul Clock\bin\Debug\Shatul Clock.exe.config
+C:\Users\Shakir\AppData\Local\Temporary Projects\Shatul Clock\obj\Debug\Shatul_Clock.frmShatul_Clock.resources
+C:\Users\Shakir\AppData\Local\Temporary Projects\Shatul Clock\obj\Debug\Shatul_Clock.Resources.resources
+C:\Users\Shakir\AppData\Local\Temporary Projects\Shatul Clock\obj\Debug\Shatul Clock.vbproj.GenerateResource.Cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\obj\Debug\Shatul_Clock.frmShatul_Clock.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\obj\Debug\Shatul_Clock.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\obj\Debug\Shatul Clock.vbproj.GenerateResource.Cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\bin\Debug\Shatul Clock.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\bin\Debug\Shatul Clock.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\bin\Debug\Shatul Clock.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\bin\Debug\Shatul Clock.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\obj\Debug\Shatul Clock.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\obj\Debug\Shatul Clock.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\obj\Debug\Shatul Clock.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\obj\Debug\Shatul_Clock.SplashScreen1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\bin\Debug\Shatul Clock.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\bin\Debug\Shatul Clock.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\obj\Debug\Shatul Clock.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Shatul Clock\Shatul Clock\Shatul Clock\obj\Debug\Shatul Clock.application

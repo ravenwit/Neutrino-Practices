@@ -1,0 +1,40 @@
+'''''''''''''''''' Year Calculation ''''''''''''''''''''''
+        If sDate.Date.Month < fDate.Date.Month Then
+            years = DateDiff(DateInterval.Year, fDate, sDate) - 1
+            If sDate.Date.Day < fDate.Date.Day Then
+                months = DateDiff(DateInterval.Month, DateSerial(fDate.Date.Year + years, fDate.Date.Month, fDate.Date.Day), sDate) - 1
+                days = DateDiff(DateInterval.Day, DateSerial(sDate.Date.Year, sDate.Month - 1, fDate.Date.Day), sDate)
+            ElseIf sDate.Date.Day = fDate.Date.Day Then
+                months = DateDiff(DateInterval.Month, DateSerial(sDate.Date.Year - 1, fDate.Date.Month, fDate.Date.Day), sDate)
+                days = 0
+            ElseIf sDate.Date.Day > fDate.Date.Day Then
+                months = DateDiff(DateInterval.Month, DateSerial(sDate.Date.Year - 1, fDate.Date.Month, fDate.Date.Day), sDate)
+                days = DateDiff(DateInterval.Day, DateSerial(sDate.Date.Year, sDate.Date.Month, fDate.Date.Day), sDate)
+            End If
+        ElseIf sDate.Date.Month = fDate.Date.Month Then
+            If sDate.Date.Day < fDate.Date.Day Then
+                years = DateDiff(DateInterval.Year, fDate, sDate) - 1
+                months = DateDiff(DateInterval.Month, DateSerial(sDate.Date.Year - 1, fDate.Date.Month, fDate.Date.Day), sDate) - 1
+                days = DateDiff(DateInterval.Day, DateSerial(sDate.Date.Year, sDate.Date.Month - 1, fDate.Date.Day), sDate)
+            ElseIf sDate.Date.Day = fDate.Date.Day Then
+                years = DateDiff(DateInterval.Year, fDate, sDate)
+                months = 0
+                days = 0
+            ElseIf sDate.Date.Day > fDate.Date.Day Then
+                years = DateDiff(DateInterval.Year, fDate, sDate)
+                months = DateDiff(DateInterval.Month, DateSerial(sDate.Date.Year, fDate.Month, fDate.Date.Day), sDate)
+                days = DateDiff(DateInterval.Day, DateSerial(sDate.Date.Year, sDate.Date.Month, fDate.Date.Day), sDate)
+            End If
+        ElseIf sDate.Date.Month > fDate.Date.Month Then
+            years = DateDiff(DateInterval.Year, fDate, sDate)
+            If sDate.Date.Day < fDate.Date.Day Then
+                months = DateDiff(DateInterval.Month, DateSerial(sDate.Date.Year, fDate.Date.Month, fDate.Date.Day), sDate)
+                days = DateDiff(DateInterval.Day, DateSerial(sDate.Date.Year, sDate.Date.Month - 1, fDate.Date.Day), sDate)
+            ElseIf sDate.Date.Day = fDate.Date.Day Then
+                months = DateDiff(DateInterval.Month, DateSerial(sDate.Date.Year, fDate.Date.Month, fDate.Date.Day), sDate)
+                days = 0
+            ElseIf sDate.Date.Day > sDate.Date.Day Then
+                months = DateDiff(DateInterval.Month, DateSerial(sDate.Date.Year, sDate.Date.Month, sDate.Date.Day), sDate)
+                days = DateDiff(DateInterval.Day, DateSerial(sDate.Date.Year, sDate.Date.Month, sDate.Date.Day), sDate)
+            End If
+        End If
